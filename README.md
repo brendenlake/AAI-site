@@ -1,3 +1,5 @@
+# Advancing AI through cognitive science
+
 **Instructor**: [Brenden Lake](https://cims.nyu.edu/~brenden/)
 
 **Meeting time and location**:  
