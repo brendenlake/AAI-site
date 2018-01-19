@@ -1,37 +1,130 @@
-## Welcome to GitHub Pages
+**Instructor**: [Brenden Lake](https://cims.nyu.edu/~brenden/)
 
-You can use the [editor on GitHub](https://github.com/brendenlake/AAI-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Meeting time and location**:  
+Thursday 4-5:50 PM  
+Meyer Room 465 (4 Washington Place)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Course numbers**:  
+PSYCH-GA 3405.001 (Psychology)  
+DS-GA 3001.014 (Data Science)
 
-### Markdown
+**Summary**: Why are people smarter than machines? This course explores how the study of human intelligence can inform and improve artificial intelligence. We will look to cognitive science, with special focus on cognitive development, to help elucidate a set of "key ingredients" that are important components of human learning and thought, but are either underutilized or absent in contemporary artificial intelligence. Through readings and discussion, we will cover ingredients such as "intuitive physics," "intuitive psychology," "compositionality," "causality," and "learning-to-learn," although students will be encouraged to contribute other ingredients. Each ingredient will be discussed and compared from the perspectives of both cognitive science and AI, with readings drawn from both fields with roughly a 50/50 proportion.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_This is a small discussion-based seminar, so please come ready to participate in the discussion._ Please note that this syllabus is not final and there may be further adjustments.
 
-```markdown
-Syntax highlighted code block
+## Pre-requisites
+This course is intended for graduate students in cognitive science or graduate students in data science / AI. Students are _not expected to have a background in both cognitive science and AI_. Instead, students may have experience in one field and the desire to learn about the other. Ideally, at the end of the course, students will have a deeper appreciation of contemporary issues in both fields and their potential for synergy. _Programming is not a requirement for this course, although students may choose to incorporate programming in their final project._
 
-# Header 1
-## Header 2
-### Header 3
+## Grading
 
-- Bulleted
-- List
+The final grade is based on the final paper or project (50\%), written reactions to the reading (25\%), and participating in discussions (25\%).
 
-1. Numbered
-2. List
+## Final assignment
 
-**Bold** and _Italic_ and `Code` text
+Students may either write a final paper that proposes an additional ingredient of human intelligence that is underutilized in AI, or complete a project that implements one of the ingredients discussed in an algorithm. 
 
-[Link](url) and ![Image](src)
-```
+## Course policies
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Auditing**: Unfortunately we have no additional spots for auditors due to the large number of previous requests. If I have replied to your request, you may audit pending available seats. Priority goes to registered students and then by date of audit request.
 
-### Jekyll Themes
+## Overview of topics and schedule
+- 1/25 Introduction and overview
+- 2/1 Deep learning – Foundations
+- 2/8 Intuitive physics (part 1: humans)
+- 2/15 Intuitive physics (part 2: machines)
+- 2/22 Intuitive psychology
+- 3/1 Compositionality
+- 3/8 Causality
+- 3/15 NO CLASS. Spring Recess
+- 3/22 Learning-to-learn
+- 3/29 Thinking fast
+- 4/5 Critiques of “Building machines that learn and think like people”
+- 4/12 Response to critiques
+- 4/19 Language and Culture
+- 4/26 Emotion and Embodiment
+- 5/3 Neuroscience
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brendenlake/AAI-site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Detailed schedule and readings
+Please see below for the assigned readings for each class. Before each class, students will be asked to submit a reaction to the readings (three paragraphs).  
 
-### Support or Contact
+**2/1 Deep learning – Foundations**
+- [Lake, B. M., Ullman, T. D., Tenenbaum, J. B., Gerhsman, S. J. (2017). Building machines that learn and think like people](https://cims.nyu.edu/~brenden/LakeEtAl2017BBS.pdf). Behavioral and Brain Sciences.
+**Only Sections 1-4 (pgs. 1-9)**
+- LeCun, Y., Bengio, Y. & Hinton, G. (2015). Deep learning. Nature 521:436–44. 
+- LeCun, Y., Boser, B., Denker, J. S., Henderson, D., Howard, R. E., Hubbard, W. & Jackel, L. D. (1989). Backpropagation applied to handwritten zip code recognition. Neural Computation 1:541–51. 
+- Mnih, V., Kavukcuoglu, K., Silver, D., …. & Hassabis, D. (2015). Human-level control through deep reinforcement learning. Nature 518(7540):529–33. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**2/8 Intuitive physics (part 1: humans)**
+- Building machines that learn and think like people (Section 4 through 4.1, pg. 9-11)
+- Spelke, E. S. (1990). Principles of object perception. Cognitive Science 14(1):29–56. 
+- Baillargeon, R. (2004). Infants’ physical world. Current Directions in Psychological Science 13:89–94 
+- Battaglia, P. W., Hamrick, J. B. & Tenenbaum, J. B. (2013). Simulation as an engine of physical scene understanding. Proceedings of the National Academy of Sciences 110(45):18327–32. 
+
+**2/15 Intuitive physics (part 2: machines)**
+- Lerer, A., Gross, S. & Fergus, R. (2016). Learning physical intuition of block towers by example. Presented at the 33rd International Conference on Machine Learning (ICML).  
+- Battaglia, P., Pascanu, R., Lai, M. & Rezende, D. J. (2016). Interaction networks for learning about objects, relations and physics. Advances in Neural Information Processing Systems. 
+- Mottaghi, R., Bagherinezhad, H., Rastegari, M., & Farhadi, A. (2016). Newtonian scene understanding: Unfolding the dynamics of objects in static images. Computer Vision and Pattern Recognition (pp. 3521-3529).
+
+**2/22 Intuitive psychology**
+- Building machines that learn and think like people (Section 4.1.2, pg. 11-2) 
+- Baker, C. L., Jara-Ettinger, J., Saxe, R. & Tenenbaum, J. B. (2017). Rational quantitative attribution of beliefs, desires and percepts in human mentalizing. Nature Human Behaviour. 
+- Csibra, G., Biro, S., Koos, O. & Gergely, G. (2003). One-year-old infants use teleological representations of actions productively. Cognitive Science 27:111–33 
+- Leslie, A. M., Friedman, O., & German, T. P. (2004). Core mechanisms in ‘theory of mind’. Trends in Cognitive Sciences, 8(12), 528-533.
+
+**3/1 Compositionality**
+- Building machines that learn and think like people (Section 4.2-4.2.1, pg. 12-15)
+- Marcus, G. (1998) Rethinking eliminative connectionism. Cognitive Psychology 282 (37):243–82. 
+Tversky, B. & Hemenway, K. (1984) Objects, parts, and categories. Journal of Experimental Psychology: General 113(2):169–91. 
+- Lake, B. M. and Baroni, M. (2017). Still not systematic after all these years: On the compositional skills of sequence-to-sequence recurrent networks. Preprint available on arXiv:1711.00350.
+- Optional: Eslami, S. M., Heess, N., Weber, T., Tassa, Y., Kavukcuoglu, K. & Hinton, G. E. (2016) Attend, infer, repeat: Fast scene understanding with generative models. Presented at the 2016 Neural Information Processing Systems conference, Barcelona, Spain.
+
+**3/8 Causality**
+- Building machines that learn and think like people (Section 4.2.2, pg. 15-16)
+- Bever, T. G. & Poeppel, D. (2010) Analysis by synthesis: A (re-) emerging program of research for language and vision. Biolinguistics 4:174–200. 
+- Lake, B. M., Salakhutdinov, R. & Tenenbaum, J. B. (2015) Human-level concept learning through probabilistic program induction. Science 350(6266):1332–38. 
+- Rezende, D. J., Mohamed, S., Danihelka, I., Gregor, K. & Wierstra, D. (2016) One-shot generalization in deep generative models. Presented at the International Conference on Machine Learning, 
+- Optional: Murphy, G. L. & Medin, D. L. (1985) The role of theories in conceptual coherence. Psychological Review 92(3):289–316. 
+
+**3/15 NO CLASS. Spring Recess**
+
+**3/22 Learning-to-learn**
+- Building machines that learn and think like people (Section 4.2.3, pg. 16-19)
+- Smith, L. B., Jones, S. S., Landau, B., Gershkoff-Stowe, L. & Samuelson, L. (2002) Object name learning provides on-the-job training for attention. Psychological Science 13(1):13–19. 
+- Ritter, S., Barrett, D. G., Santoro, A., & Botvinick, M. M. (2017). Cognitive psychology for deep neural networks: A shape bias case study. International Conference on Machine Learning (ICML).
+- Wang, J. X., Kurth-Nelson, Z., Tirumala, D., Soyer, H., Leibo, J. Z., Munos, R., ... & Botvinick, M. (2016). Learning to reinforcement learn. arXiv preprint arXiv:1611.05763.
+
+**3/29 Thinking fast**
+- Building machines that learn and think like people (Section 4.3, pg. 18-19)
+- Silver, D., Huang, A., Maddison, C. J., Guez, A…. & Hassabis, D. (2016) Mastering the game of go with deep neural networks and tree search. Nature 529(7585):484–89. 
+- Daw, N. D., Niv, Y. & Dayan, P. (2005) Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control. Nature Neuroscience 8(12):1704–11.  
+- Sutton, R. S. (1990) Integrated architectures for learning, planning, and reacting based on approximating dynamic programming. International Conference on Machine Learning (ICML).
+
+**4/5 Critiques of “Building machines that learn and think like people” (with special guest [Ernie Davis](https://cs.nyu.edu/faculty/davise/))**
+- Building machines that learn and think like people (Section 5-end, pg. 19-25)
+- Commentaries to read:
+-- Botvinick et al., “Building machines that learn and think for themselves” 
+-- Chater and Oaksford, “Theories or fragments?” 
+-- Clegg and Corriveu, “Children begin with the same start-up software, but their software updates are cultural “
+-- Davis and Marcus, “Causal generative models are just a start” 
+-- Hanson, Lampinen, Suriv, McClelland, “Building on prior knowledge without building it in” 
+-- MacLennan, “Benefits of embodiment” 
+-- Moerman, “The argument for single-purpose robots” 
+-- Spelke and Blass, “Intelligent machines and human minds” 
+-- Tessler, Goodman, Frank, “Avoiding frostbite: It helps to learn from others” 
+
+**4/12 Response to critiques**
+- Response, Lake, Ullman, Gershman, Tenenbaum, “Ingredients of intelligence: From classic debates to an engineering roadmap” (pg. 50-59)
+
+**4/19 Language and Culture**
+- Mikolov, T., Joulin, A. & Baroni, M. (2016) A roadmap towards machine intelligence. arXiv preprint 1511.08130. 
+- Lupyan, G. & Bergen, B. (2016) How language programs the mind. Topics in Cognitive Science 8(2):408–24. 
+
+**4/26 Emotion and Embodiment**
+- Ong, D. C., Zaki, J., & Goodman, N. D. (2015). Affective cognition: Exploring lay theories of emotion. Cognition, 143, 141-162.
+- Niedenthal, P. M. (2007). Embodying emotion. Science, 316(5827), 1002-1005.
+
+**5/3 Neuroscience**
+- Hassabis, D., Kumaran, D., Summerfield, C., & Botvinick, M. (2017). Neuroscience-inspired artificial intelligence. Neuron, 95(2), 245-258.
+- Xu, K., Ba, J., Kiros, R., Cho, K., Courville, A., Salakhutdinov, R., Zemel, R. & Bengio, Y. (2015) Show, attend and tell: Neural image caption generation with visual attention. International Conference on Machine Learning (ICML). 
+- Graves, A., Wayne, G., Reynolds, M., ... , & Hassabis, D. (2016) Hybrid computing using a neural network with dynamic external memory. Nature 538(7626):471–76. 
+- Marcus, G., Marblestone, A., & Dean, T. (2014). The atoms of neural computation. Science, 346(6209), 551-552. 
