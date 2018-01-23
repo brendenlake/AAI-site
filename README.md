@@ -56,7 +56,7 @@ Students may either write a final paper that proposes an additional ingredient o
 - 5/3 Neuroscience
 
 ## Detailed schedule and readings
-Please see below for the assigned readings for each class. Before each class, students will be asked to submit a reaction to the readings (three paragraphs). Reaction posts are submitted via Piazza. Papers are available for download on NYU Classes in the "Resources" folder.
+Please see below for the assigned readings for each class (to be read before class). Before each class, students will be asked to submit a reaction to the readings (three paragraphs). Reaction posts are submitted via Piazza. Papers are available for download on NYU Classes in the "Resources" folder.
 
 **1/25 Introduction and overview**
 - No assigned readings
