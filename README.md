@@ -69,7 +69,7 @@ Please see below for the assigned readings for each class. Before each class, st
 **2/8 Deep learning – Discussion**
 - [Lake, B. M., Ullman, T. D., Tenenbaum, J. B., Gerhsman, S. J. (2017). Building machines that learn and think like people](https://cims.nyu.edu/~brenden/LakeEtAl2017BBS.pdf). Behavioral and Brain Sciences.
 **Only Sections 1-4 (pgs. 1-9)**
-- 
+- Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). Imagenet classification with deep convolutional neural networks. In Advances in Neural Information Processing Systems (pp. 1097-1105).
 - Mnih, V., Kavukcuoglu, K., Silver, D., …. & Hassabis, D. (2015). Human-level control through deep reinforcement learning. Nature 518(7540):529–33.
 - **Reaction post is requried for this class and the following classes**
 
