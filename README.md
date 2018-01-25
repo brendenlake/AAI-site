@@ -18,10 +18,17 @@ Wednesdays 10-11:00 am, or by appointment; 60 5th Ave., Room 610
 _This is a small discussion-based seminar, so please come ready to participate in the discussion._ Please note that this syllabus is not final and there may be further adjustments.
 
 ## Pre-requisites
-This course is intended for graduate students in cognitive science or graduate students in data science / AI. Students are _not expected to have a background in both cognitive science and AI_. Instead, students may have experience in one field and the desire to learn about the other. Ideally, at the end of the course, students will have a deeper appreciation of contemporary issues in both fields and their potential for synergy. _Programming is not a requirement for this course, although students may choose to incorporate programming in their final project._
+- This course is intended for graduate students in cognitive science or graduate students in data science / AI. 
+- Students are _not expected to have a background in both cognitive science and AI_. Instead, students may have experience in one field and the desire to learn about the other. Ideally, at the end of the course, students will have a deeper appreciation of contemporary issues in both fields and their potential for synergy.
+- At minimum, it would be very good to have taken a graduate level psychology course, OR a graduate level machine learning / AI course. If you have taken neither, this probably not the right course for you.
+- _Programming is not a requirement for this course, although students may choose to incorporate programming in their final project._
 
 ## Grading
 The final grade is based on the final paper or project (50%), written reactions to the reading (25%), and participating in discussions (25%).
+
+The final paper or project is done individually. For the final assignment, students may either write a final paper that proposes an additional ingredient of human intelligence that is underutilized in AI, or complete a project that implements one of the ingredients discussed in an algorithm.
+
+The project will represent either an substantial extension of one of the homeworks (e.g., exploring some new aspect of one of the assignments), implementing and replicated an existing cognitive modeling paper, or a written paper discussing one of the core modeling topics. The final projects will need to be approved by the instructor at least 6 weeks before the end of the semester.
 
 ## Course discussion  
 We will be using Piazza for reactions to readings and class discussion.
@@ -31,8 +38,11 @@ The signup link for our Piazza page is available here ([https://piazza.com/nyu/s
 Once signed up, our class Piazza page is available here ([https://piazza.com/nyu/spring2018/psychga3405001/home](https://piazza.com/nyu/spring2018/psychga3405001/home)).
 
 ## Final assignment
-
-Students may either write a final paper that proposes an additional ingredient of human intelligence that is underutilized in AI, or complete a project that implements one of the ingredients discussed in an algorithm. 
+- The final paper or project is done individually (not as a group). 
+- Option 1: A final paper that proposes an additional ingredient of human intelligence that is underutilized in AI. The paper should summarize the psychological literature on the ingredient, and discuss the relevant AI literature or lack thereof (about 8 pages)
+- Option 2: Complete a project that implements an important aspect of one of the ingredients discussed in class (intuitive physics, intuitive psychology, compositionality etc.) in an algorithm (with a 4 page writeup)
+- If you can link the project to your research, that's encouraged!
+- The final assignment should be discussed with the instructor and approved with at least 6 weeks before the end of the semester.
 
 ## Course policies
 
