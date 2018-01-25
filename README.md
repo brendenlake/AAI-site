@@ -149,6 +149,5 @@ Please see below for the assigned readings for each class (to be read before cla
 
 **5/3 Neuroscience**
 - Hassabis, D., Kumaran, D., Summerfield, C., & Botvinick, M. (2017). Neuroscience-inspired artificial intelligence. Neuron, 95(2), 245-258.
-- Xu, K., Ba, J., Kiros, R., Cho, K., Courville, A., Salakhutdinov, R., Zemel, R. & Bengio, Y. (2015) Show, attend and tell: Neural image caption generation with visual attention. International Conference on Machine Learning (ICML). 
-- Graves, A., Wayne, G., Reynolds, M., ... , & Hassabis, D. (2016) Hybrid computing using a neural network with dynamic external memory. Nature 538(7626):471–76. 
+- George, D., Lehrach, W., Kansky, K., Lázaro-Gredilla, M., Laan, C., Marthi, B., ... & Lavin, A. (2017). A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs. Science, 358(6368).
 - Marcus, G., Marblestone, A., & Dean, T. (2014). The atoms of neural computation. Science, 346(6209), 551-552. 
