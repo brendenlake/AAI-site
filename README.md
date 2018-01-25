@@ -73,14 +73,15 @@ Please see below for the assigned readings for each class (to be read before cla
 
 **2/1 Deep learning – Lecture**
 - LeCun, Y., Bengio, Y. & Hinton, G. (2015). Deep learning. Nature 521:436–44. 
-- LeCun, Y., Boser, B., Denker, J. S., Henderson, D., Howard, R. E., Hubbard, W. & Jackel, L. D. (1989). Backpropagation applied to handwritten zip code recognition. Neural Computation 1:541–51.
+- Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). Imagenet classification with deep convolutional neural networks. In Advances in Neural Information Processing Systems (pp. 1097-1105).
 - **No reaction post is requried for these readings**
 
 **2/8 Deep learning – Discussion**
 - [Lake, B. M., Ullman, T. D., Tenenbaum, J. B., Gerhsman, S. J. (2017). Building machines that learn and think like people](https://cims.nyu.edu/~brenden/LakeEtAl2017BBS.pdf). Behavioral and Brain Sciences.
 **Only Sections 1-4 (pgs. 1-9)**
-- Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). Imagenet classification with deep convolutional neural networks. In Advances in Neural Information Processing Systems (pp. 1097-1105).
 - Mnih, V., Kavukcuoglu, K., Silver, D., …. & Hassabis, D. (2015). Human-level control through deep reinforcement learning. Nature 518(7540):529–33.
+- Graves, A., Wayne, G., Reynolds, M., Harley, T., Danihelka, I., Grabska-Barwińska, A., ... & Badia, A. P. (2016). Hybrid computing using a neural network with dynamic external memory. Nature, 538(7626), 471-476.
+- Xu, K., Ba, J., Kiros, R., Cho, K., Courville, A., Salakhudinov, R., Zemel, R., & Bengio, Y. (2015). Show, attend and tell: Neural image caption generation with visual attention. In International Conference on Machine Learning (pp. 2048-2057).
 - **Reaction post is requried for this class and the following classes (due midnight the night before class) **
 
 **2/15 Intuitive physics (part 1: humans)**
