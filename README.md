@@ -82,7 +82,7 @@ Please see below for the assigned readings for each class (to be read before cla
 - Mnih, V., Kavukcuoglu, K., Silver, D., …. & Hassabis, D. (2015). Human-level control through deep reinforcement learning. Nature 518(7540):529–33.
 - Graves, A., Wayne, G., Reynolds, M., Harley, T., Danihelka, I., Grabska-Barwińska, A., ... & Badia, A. P. (2016). Hybrid computing using a neural network with dynamic external memory. Nature, 538(7626), 471-476.
 - Xu, K., Ba, J., Kiros, R., Cho, K., Courville, A., Salakhudinov, R., Zemel, R., & Bengio, Y. (2015). Show, attend and tell: Neural image caption generation with visual attention. In International Conference on Machine Learning (pp. 2048-2057).
-- **Reaction post is requried for this class and the following classes (due midnight the night before class) **
+- **Reaction post is requried for this class and the following classes (due midnight the night before class)**
 
 **2/15 Intuitive physics (part 1: humans)**
 - Building machines that learn and think like people (Section 4 through 4.1, pg. 9-11)
@@ -97,14 +97,14 @@ Please see below for the assigned readings for each class (to be read before cla
 
 **3/1 Intuitive psychology**
 - Building machines that learn and think like people (Section 4.1.2, pg. 11-2) 
-- Baker, C. L., Jara-Ettinger, J., Saxe, R. & Tenenbaum, J. B. (2017). Rational quantitative attribution of beliefs, desires and percepts in human mentalizing. Nature Human Behaviour. 
+- Baker, C. L., Jara-Ettinger, J., Saxe, R. & Tenenbaum, J. B. (2017). Rational quantitative attribution of beliefs, desires and percepts in human mentalizing. Nature Human Behaviour.
 - Csibra, G., Biro, S., Koos, O. & Gergely, G. (2003). One-year-old infants use teleological representations of actions productively. Cognitive Science 27:111–33 
 - Leslie, A. M., Friedman, O., & German, T. P. (2004). Core mechanisms in ‘theory of mind’. Trends in Cognitive Sciences, 8(12), 528-533.
 
 **3/8 Compositionality**
 - Building machines that learn and think like people (Section 4.2-4.2.1, pg. 12-15)
 - Marcus, G. (1998) Rethinking eliminative connectionism. Cognitive Psychology 282 (37):243–82. 
-Tversky, B. & Hemenway, K. (1984) Objects, parts, and categories. Journal of Experimental Psychology: General 113(2):169–91. 
+- Tversky, B. & Hemenway, K. (1984) Objects, parts, and categories. Journal of Experimental Psychology: General 113(2):169–91. 
 - Lake, B. M. and Baroni, M. (2017). Still not systematic after all these years: On the compositional skills of sequence-to-sequence recurrent networks. Preprint available on arXiv:1711.00350.
 - Optional: Eslami, S. M., Heess, N., Weber, T., Tassa, Y., Kavukcuoglu, K. & Hinton, G. E. (2016) Attend, infer, repeat: Fast scene understanding with generative models. Presented at the 2016 Neural Information Processing Systems conference, Barcelona, Spain.
 
@@ -126,15 +126,15 @@ Tversky, B. & Hemenway, K. (1984) Objects, parts, and categories. Journal of Exp
 **4/5 Critiques of “Building machines that learn and think like people” (with special guest [Ernie Davis](https://cs.nyu.edu/faculty/davise/))**
 - Building machines that learn and think like people (Section 5-end, pg. 19-25)
 - Commentaries to read:
--- Botvinick et al., “Building machines that learn and think for themselves” 
--- Chater and Oaksford, “Theories or fragments?” 
--- Clegg and Corriveu, “Children begin with the same start-up software, but their software updates are cultural “
--- Davis and Marcus, “Causal generative models are just a start” 
--- Hanson, Lampinen, Suriv, McClelland, “Building on prior knowledge without building it in” 
--- MacLennan, “Benefits of embodiment” 
--- Moerman, “The argument for single-purpose robots” 
--- Spelke and Blass, “Intelligent machines and human minds” 
--- Tessler, Goodman, Frank, “Avoiding frostbite: It helps to learn from others” 
+  - Botvinick et al., “Building machines that learn and think for themselves” 
+  - Chater and Oaksford, “Theories or fragments?” 
+  - Clegg and Corriveu, “Children begin with the same start-up software, but their software updates are cultural “
+  - Davis and Marcus, “Causal generative models are just a start” 
+  - Hanson, Lampinen, Suriv, McClelland, “Building on prior knowledge without building it in” 
+  - MacLennan, “Benefits of embodiment” 
+  - Moerman, “The argument for single-purpose robots” 
+  - Spelke and Blass, “Intelligent machines and human minds” 
+  - Tessler, Goodman, Frank, “Avoiding frostbite: It helps to learn from others” 
 
 **4/12 Response to critiques**
 - Response, Lake, Ullman, Gershman, Tenenbaum, “Ingredients of intelligence: From classic debates to an engineering roadmap” (pg. 50-59)
