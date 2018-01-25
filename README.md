@@ -66,7 +66,7 @@ Once signed up, our class Piazza page is available here ([https://piazza.com/nyu
 - 5/3 Neuroscience
 
 ## Detailed schedule and readings
-Please see below for the assigned readings for each class (to be read before class). Before each class, students will be asked to submit a reaction to the readings (three paragraphs). Reaction posts are submitted via Piazza. Papers are available for download on NYU Classes in the "Resources" folder.
+Please see below for the assigned readings for each class (to be read before class). Before each class, students will be asked to submit a reaction to the readings (three paragraphs). Reaction posts are submitted via Piazza. Papers are available for download on NYU Classes in the "Resources" folder. Reactions are due by midnight the day before class (so I have time to read the reactions!)
 
 **1/25 Introduction and overview**
 - No assigned readings
@@ -81,7 +81,7 @@ Please see below for the assigned readings for each class (to be read before cla
 **Only Sections 1-4 (pgs. 1-9)**
 - Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). Imagenet classification with deep convolutional neural networks. In Advances in Neural Information Processing Systems (pp. 1097-1105).
 - Mnih, V., Kavukcuoglu, K., Silver, D., …. & Hassabis, D. (2015). Human-level control through deep reinforcement learning. Nature 518(7540):529–33.
-- **Reaction post is requried for this class and the following classes**
+- **Reaction post is requried for this class and the following classes (due midnight the night before class) **
 
 **2/15 Intuitive physics (part 1: humans)**
 - Building machines that learn and think like people (Section 4 through 4.1, pg. 9-11)
