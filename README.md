@@ -54,16 +54,16 @@ Once signed up, our class Piazza page is available here ([https://piazza.com/nyu
 - 2/8 Deep learning – Discussion
 - 2/15 Intuitive physics (part 1: humans) 
 - 2/22 Intuitive physics (part 2: machines)
-- 3/1 Intuitive psychology
-- 3/8 Compositionality
+- 3/1 Intuitive psychology (part 1: humans) 
+- 3/8 Intuitive psychology (part 2: machines)
 - 3/15 NO CLASS. Spring Recess
-- 3/22 Causality 
-- 3/29 Learning-to-learn
-- 4/5 Critiques of “Building machines that learn and think like people”
-- 4/12 Response to critiques
-- 4/19 Language and Culture
-- 4/26 Emotion and Embodiment
-- 5/3 Neuroscience
+- 3/22 Compositionality
+- 3/29 Causality 
+- 4/5 Learning-to-learn
+- 4/12 Critiques of “Building machines that learn and think like people”
+- 4/19 Response to critiques
+- 4/26 Language and Culture
+- 5/3 Emotion and Embodiment
 
 ## Detailed schedule and readings
 Please see below for the assigned readings for each class (to be read before class). Before each class, students will be asked to submit a reaction to the readings (three paragraphs). Reaction posts are submitted via Piazza. Papers are available for download on NYU Classes in the "Resources" folder. Reactions are due by midnight the day before class (so I have time to read the reactions!)
@@ -102,28 +102,26 @@ Please see below for the assigned readings for each class (to be read before cla
 - Leslie, A. M., Friedman, O., & German, T. P. (2004). Core mechanisms in ‘theory of mind’. Trends in Cognitive Sciences, 8(12), 528-533.
 
 **3/8 Intuitive psychology (part 2: machines)**
-- Raileanu, R., Denton, E., Szlam, A., and Fergus, R. (2018). Modeling Others using Oneself in Multi-Agent Reinforcement Learning. Preprint available on arXiv:1802.09640.
-- Rabinowitz, N. C., Perbet, F., Song, H. F., ..., Botvinick, M. (2018). Machine theory of mind. Preprint available on arXiv:1802.07740.
+- Raileanu, R., Denton, E., Szlam, A., and Fergus, R. (2018). Modeling Others using Oneself in Multi-Agent Reinforcement Learning. arXiv preprint arXiv:1802.09640.
+- Rabinowitz, N. C., Perbet, F., Song, H. F., ..., Botvinick, M. (2018). Machine theory of mind. arXiv preprint arXiv:1802.07740.
 
 **3/15 NO CLASS. Spring Recess**
 
 **3/22 Compositionality**
 - Building machines that learn and think like people (Section 4.2-4.2.1, pg. 12-15)
 - Marcus, G. (1998) Rethinking eliminative connectionism. Cognitive Psychology 282 (37):243–82. 
-- Tversky, B. & Hemenway, K. (1984) Objects, parts, and categories. Journal of Experimental Psychology: General 113(2):169–91. 
-- Lake, B. M. and Baroni, M. (2017). Still not systematic after all these years: On the compositional skills of sequence-to-sequence recurrent networks. Preprint available on arXiv:1711.00350.
-- Optional: Eslami, S. M., Heess, N., Weber, T., Tassa, Y., Kavukcuoglu, K. & Hinton, G. E. (2016) Attend, infer, repeat: Fast scene understanding with generative models. Presented at the 2016 Neural Information Processing Systems conference, Barcelona, Spain.
+- Lake, B. M. and Baroni, M. (2017). Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks. Preprint available on arXiv:1711.00350.
+- Reed, S., & De Freitas, N. (2016). Neural programmer-interpreters. International Conference on Learning Representations (ICLR).
 
 **3/29 Causality**
 - Building machines that learn and think like people (Section 4.2.2, pg. 15-16)
-- Bever, T. G. & Poeppel, D. (2010) Analysis by synthesis: A (re-) emerging program of research for language and vision. Biolinguistics 4:174–200. 
 - Lake, B. M., Salakhutdinov, R. & Tenenbaum, J. B. (2015) Human-level concept learning through probabilistic program induction. Science 350(6266):1332–38. 
-- Rezende, D. J., Mohamed, S., Danihelka, I., Gregor, K. & Wierstra, D. (2016) One-shot generalization in deep generative models. Presented at the International Conference on Machine Learning, 
-- Optional: Murphy, G. L. & Medin, D. L. (1985) The role of theories in conceptual coherence. Psychological Review 92(3):289–316. 
+- Rezende, D. J., Mohamed, S., Danihelka, I., Gregor, K. & Wierstra, D. (2016) One-shot generalization in deep generative models. Presented at the International Conference on Machine Learning.
+- Murphy, G. L. & Medin, D. L. (1985) The role of theories in conceptual coherence. Psychological Review 92(3):289–316.
 
 **4/5 Learning-to-learn**
 - Building machines that learn and think like people (Section 4.2.3-4.3, pg. 16-19)
-- Smith, L. B., Jones, S. S., Landau, B., Gershkoff-Stowe, L. & Samuelson, L. (2002) Object name learning provides on-the-job training for attention. Psychological Science 13(1):13–19. 
+- Smith, L. B., Jones, S. S., Landau, B., Gershkoff-Stowe, L. & Samuelson, L. (2002) Object name learning provides on-the-job training for attention. Psychological Science 13(1):13–19.
 - Ritter, S., Barrett, D. G., Santoro, A., & Botvinick, M. M. (2017). Cognitive psychology for deep neural networks: A shape bias case study. International Conference on Machine Learning (ICML).
 - Wang, J. X., Kurth-Nelson, Z., Tirumala, D., Soyer, H., Leibo, J. Z., Munos, R., ... & Botvinick, M. (2016). Learning to reinforcement learn. arXiv preprint arXiv:1611.05763.
 
