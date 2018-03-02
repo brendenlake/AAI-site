@@ -146,6 +146,7 @@ Please see below for the assigned readings for each class (to be read before cla
 - Lupyan, G. & Bergen, B. (2016) How language programs the mind. Topics in Cognitive Science 8(2):408–24. 
 
 **5/3 Emotion and Embodiment**
+- Yurovsky, D., Smith, L. B., & Yu, C. (2013). Statistical word learning at scale: The baby's view is better. Developmental Science, 16(6), 959-966.
 - Ong, D. C., Zaki, J., & Goodman, N. D. (2015). Affective cognition: Exploring lay theories of emotion. Cognition, 143, 141-162.
 - Niedenthal, P. M. (2007). Embodying emotion. Science, 316(5827), 1002-1005.
 
