@@ -137,9 +137,12 @@ Please see below for the assigned readings for each class (to be read before cla
   - Moerman, “The argument for single-purpose robots” 
   - Spelke and Blass, “Intelligent machines and human minds” 
   - Tessler, Goodman, Frank, “Avoiding frostbite: It helps to learn from others” 
-
-**4/19 Response to critiques**
 - Response, Lake, Ullman, Gershman, Tenenbaum, “Ingredients of intelligence: From classic debates to an engineering roadmap” (pg. 50-59)
+
+**4/19 Recent critiques and innateness (with special guest [Gary Marcus](http://garymarcus.com/) )**
+- Marcus, G. (2018). Deep Learning: A Critical Appraisal. arXiv preprint arXiv:1801.00631.
+- Marcus, G. (2018). Innateness, AlphaZero, and Artificial Intelligence. arXiv preprint arXiv:1801.05667.
+- Silver, D., Schrittwieser, J., Simonyan, K., Antonoglou, I., Huang, A., Guez, A., ... & Chen, Y. (2017). Mastering the game of go without human knowledge. Nature, 550(7676), 354.
 
 **4/26 Language and Culture**
 - Mikolov, T., Joulin, A. & Baroni, M. (2016) A roadmap towards machine intelligence. arXiv preprint 1511.08130. 
