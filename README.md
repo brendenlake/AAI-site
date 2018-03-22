@@ -38,6 +38,7 @@ The signup link for our Piazza page is available here ([https://piazza.com/nyu/s
 Once signed up, our class Piazza page is available here ([https://piazza.com/nyu/spring2018/psychga3405001/home](https://piazza.com/nyu/spring2018/psychga3405001/home)).
 
 ## Final assignment
+- The final assignment is due Tuesday, May 8.
 - The final paper or project is done individually (not as a group). 
 - Option 1: A final paper that proposes an additional ingredient of human intelligence that is underutilized in AI. The paper should summarize the psychological literature on the ingredient, and discuss the relevant AI literature or lack thereof (about 8 pages)
 - Option 2: Complete a project that implements an important aspect of one of the ingredients discussed in class (intuitive physics, intuitive psychology, compositionality etc.) in an algorithm (with a 4 page writeup)
@@ -64,6 +65,7 @@ Once signed up, our class Piazza page is available here ([https://piazza.com/nyu
 - 4/19 Response to critiques
 - 4/26 Language and Culture
 - 5/3 Emotion and Embodiment
+- Final assignment due (Tuseday 5/8)
 
 ## Detailed schedule and readings
 Please see below for the assigned readings for each class (to be read before class). Before each class, students will be asked to submit a reaction to the readings (three paragraphs). Reaction posts are submitted via Piazza. Papers are available for download on NYU Classes in the "Resources" folder. Reactions are due by midnight the day before class (so I have time to read the reactions!)
