@@ -65,7 +65,7 @@ Once signed up, our class Piazza page is available here ([https://piazza.com/nyu
 - 4/19 Response to critiques
 - 4/26 Language and Culture
 - 5/3 Emotion and Embodiment
-- Final assignment due (Tuseday 5/8)
+- Final assignment due (Tuesday 5/8)
 
 ## Detailed schedule and readings
 Please see below for the assigned readings for each class (to be read before class). Before each class, students will be asked to submit a reaction to the readings (three paragraphs). Reaction posts are submitted via Piazza. Papers are available for download on NYU Classes in the "Resources" folder. Reactions are due by midnight the day before class (so I have time to read the reactions!)
