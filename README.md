@@ -127,7 +127,7 @@ Please see below for the assigned readings for each class (to be read before cla
 - Ritter, S., Barrett, D. G., Santoro, A., & Botvinick, M. M. (2017). Cognitive psychology for deep neural networks: A shape bias case study. International Conference on Machine Learning (ICML).
 - Wang, J. X., Kurth-Nelson, Z., Tirumala, D., Soyer, H., Leibo, J. Z., Munos, R., ... & Botvinick, M. (2016). Learning to reinforcement learn. arXiv preprint arXiv:1611.05763.
 
-**4/12 Critiques of “Building machines that learn and think like people” (with special guest [Ernie Davis](https://cs.nyu.edu/faculty/davise/))**
+**4/12 Critiques of “Building machines that learn and think like people”**
 - Building machines that learn and think like people (Section 5-end, pg. 19-25)
 - Commentaries to read:
   - Botvinick et al., “Building machines that learn and think for themselves” 
