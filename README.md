@@ -131,12 +131,15 @@ Please see below for the assigned readings for each class (to be read before cla
 - Building machines that learn and think like people (Section 5-end, pg. 19-25)
 - Commentaries to read:
   - Botvinick et al., “Building machines that learn and think for themselves” 
+  - Caglar and Hanson, "Back to the future: The return of cognitive functionalism"
   - Chater and Oaksford, “Theories or fragments?” 
   - Clegg and Corriveu, “Children begin with the same start-up software, but their software updates are cultural “
   - Davis and Marcus, “Causal generative models are just a start” 
+  - Dennet and Lambert, "Thinking like animals or like colleagues?"
   - Hanson, Lampinen, Suriv, McClelland, “Building on prior knowledge without building it in” 
   - MacLennan, “Benefits of embodiment” 
-  - Moerman, “The argument for single-purpose robots” 
+  - Moerman, “The argument for single-purpose robots”
+  - Pierre-Yves Oudeyer, "Autonomous development annd learning in AI and robotics: Scaling up deep learning to human-like learning"
   - Spelke and Blass, “Intelligent machines and human minds” 
   - Tessler, Goodman, Frank, “Avoiding frostbite: It helps to learn from others” 
 - Response, Lake, Ullman, Gershman, Tenenbaum, “Ingredients of intelligence: From classic debates to an engineering roadmap” (pg. 50-59)
