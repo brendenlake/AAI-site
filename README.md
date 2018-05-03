@@ -44,6 +44,7 @@ Once signed up, our class Piazza page is available here ([https://piazza.com/nyu
 - Option 2: Complete a project that implements an important aspect of one of the ingredients discussed in class (intuitive physics, intuitive psychology, compositionality etc.) in an algorithm (with a 4 page writeup)
 - If you can link the project to your research, that's encouraged!
 - The final assignment should be discussed with the instructor and approved with at least 6 weeks before the end of the semester.
+- Please submit final assignment via email (brenden@nyu.edu) with the file name lastname-aai-final.pdf
 
 ## Course policies
 
