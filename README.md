@@ -1,4 +1,4 @@
-# Advancing AI through cognitive science
+# Advancing AI through cognitive science - Spring 2019
 
 **Instructor**: [Brenden Lake](https://cims.nyu.edu/~brenden/)
 
@@ -43,7 +43,7 @@ Once signed up, our class Piazza page is available here ([https://piazza.com/nyu
 - Option 1: A final paper that proposes an additional ingredient of human intelligence that is underutilized in AI. The paper should summarize the psychological literature on the ingredient, and discuss the relevant AI literature or lack thereof (about 8 pages)
 - Option 2: Complete a project that implements an important aspect of one of the ingredients discussed in class (intuitive physics, intuitive psychology, compositionality etc.) in an algorithm (with a 4 page writeup)
 - If you can link the project to your research, that's encouraged!
-- The final assignment proposal is due on Thursday, April 4 (one half page written). Submit via email with the file name lastname-aai-proposal.pdf(brenden@nyu.edu).
+- The final assignment proposal is due on Thursday, April 4 (one half page written). Submit via email with the file name lastname-aai-proposal.pdf (brenden@nyu.edu).
 - Please submit final assignment via email (brenden@nyu.edu) with the file name lastname-aai-final.pdf
 
 ## Course policies
@@ -88,7 +88,7 @@ Please see below for the assigned readings for each class (to be read before cla
 - Xu, K., Ba, J., Kiros, R., Cho, K., Courville, A., Salakhudinov, R., Zemel, R., & Bengio, Y. (2015). Show, attend and tell: Neural image caption generation with visual attention. In International Conference on Machine Learning (pp. 2048-2057).
 - **Reaction post is requried for this class and the following classes (due midnight the night before class)**
 
-**2/21 Intuitive physics (part 1: humans) **
+**2/21 Intuitive physics (part 1: humans)**
 - Building machines that learn and think like people (Section 4 through 4.1, pg. 9-11)
 - Spelke, E. S. (1990). Principles of object perception. Cognitive Science 14(1):29–56. 
 - Baillargeon, R. (2004). Infants’ physical world. Current Directions in Psychological Science 13:89–94 
