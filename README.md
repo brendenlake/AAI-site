@@ -1,6 +1,7 @@
 # Advancing AI through cognitive science - Spring 2019
 
 **Instructor**: [Brenden Lake](https://cims.nyu.edu/~brenden/)
+Assistant Professor of Psychology and Data Science
 
 **Meeting time and location**:  
 Thursday 4-5:50 PM  
@@ -78,7 +79,7 @@ Please see below for the assigned readings for each class (to be read before cla
 **2/7 Deep learning – Lecture**
 - LeCun, Y., Bengio, Y. & Hinton, G. (2015). Deep learning. Nature 521:436–44. 
 - Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). Imagenet classification with deep convolutional neural networks. In Advances in Neural Information Processing Systems (pp. 1097-1105).
-- **No reaction post is requried for these readings**
+- **No reaction post is required for these readings**
 
 **2/14 Deep learning - Discussion**
 - [Lake, B. M., Ullman, T. D., Tenenbaum, J. B., Gerhsman, S. J. (2017). Building machines that learn and think like people](https://cims.nyu.edu/~brenden/LakeEtAl2017BBS.pdf). Behavioral and Brain Sciences.
