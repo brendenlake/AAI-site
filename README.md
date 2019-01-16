@@ -78,7 +78,7 @@ Please see below for the assigned readings for each class (to be read before cla
 
 **2/7 Deep learning – Lecture**
 - LeCun, Y., Bengio, Y. & Hinton, G. (2015). Deep learning. Nature 521:436–44. 
-- Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). Imagenet classification with deep convolutional neural networks. In Advances in Neural Information Processing Systems (pp. 1097-1105).
+- [Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). Imagenet classification with deep convolutional neural networks.](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) In Advances in Neural Information Processing Systems (pp. 1097-1105).
 - **No reaction post is required for these readings**
 
 **2/14 Deep learning - Discussion**
@@ -116,7 +116,7 @@ Please see below for the assigned readings for each class (to be read before cla
 - Building machines that learn and think like people (Section 4.2-4.2.1, pg. 12-15)
 - Marcus, G. (1998) Rethinking eliminative connectionism. Cognitive Psychology 282 (37):243–82. 
 - [Lake, B. M. and Baroni, M. (2018). Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks.](https://arxiv.org/abs/1711.00350) International Conference on Machine Learning (ICML).
-- Reed, S., & De Freitas, N. (2016). Neural programmer-interpreters. International Conference on Learning Representations (ICLR).
+- [Reed, S., & De Freitas, N. (2016). Neural programmer-interpreters.](https://arxiv.org/abs/1511.06279) International Conference on Learning Representations (ICLR).
 
 **4/4 Causality**
 - Building machines that learn and think like people (Section 4.2.2, pg. 15-16)
