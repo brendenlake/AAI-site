@@ -1,7 +1,8 @@
 # Advancing AI through cognitive science - Spring 2019
 
 **Instructor**: [Brenden Lake](https://cims.nyu.edu/~brenden/)  
-Assistant Professor of Psychology and Data Science
+Assistant Professor of Psychology and Data Science  
+New York University
 
 **Meeting time and location**:  
 Thursday 4-5:50 PM  
