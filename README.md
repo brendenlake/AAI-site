@@ -1,6 +1,6 @@
 # Advancing AI through cognitive science - Spring 2019
 
-**Instructor**: [Brenden Lake](https://cims.nyu.edu/~brenden/)
+**Instructor**: [Brenden Lake](https://cims.nyu.edu/~brenden/)  
 Assistant Professor of Psychology and Data Science
 
 **Meeting time and location**:  
@@ -86,49 +86,50 @@ Please see below for the assigned readings for each class (to be read before cla
 **Only Sections 1-4 (pgs. 1-9)**
 - Mnih, V., Kavukcuoglu, K., Silver, D., …. & Hassabis, D. (2015). Human-level control through deep reinforcement learning. Nature 518(7540):529–33.
 - Graves, A., Wayne, G., Reynolds, M., Harley, T., Danihelka, I., Grabska-Barwińska, A., ... & Badia, A. P. (2016). Hybrid computing using a neural network with dynamic external memory. Nature, 538(7626), 471-476.
-- Xu, K., Ba, J., Kiros, R., Cho, K., Courville, A., Salakhudinov, R., Zemel, R., & Bengio, Y. (2015). Show, attend and tell: Neural image caption generation with visual attention. In International Conference on Machine Learning (pp. 2048-2057).
+- [Xu, K., Ba, J., Kiros, R., Cho, K., Courville, A., Salakhudinov, R., Zemel, R., & Bengio, Y. (2015). Show, attend and tell: Neural image caption generation with visual attention.](https://arxiv.org/abs/1502.03044) In International Conference on Machine Learning (pp. 2048-2057).
 - **Reaction post is requried for this class and the following classes (due midnight the night before class)**
 
 **2/21 Intuitive physics (part 1: humans)**
 - Building machines that learn and think like people (Section 4 through 4.1, pg. 9-11)
 - Spelke, E. S. (1990). Principles of object perception. Cognitive Science 14(1):29–56. 
-- Baillargeon, R. (2004). Infants’ physical world. Current Directions in Psychological Science 13:89–94 
-- Battaglia, P. W., Hamrick, J. B. & Tenenbaum, J. B. (2013). Simulation as an engine of physical scene understanding. Proceedings of the National Academy of Sciences 110(45):18327–32. 
+- Xu, F., & Carey, S. (1996). Infants’ metaphysics: The case of numerical identity. Cognitive psychology, 30(2), 111-153.
+- Battaglia, P. W., Hamrick, J. B. & Tenenbaum, J. B. (2013). Simulation as an engine of physical scene understanding. Proceedings of the National Academy of Sciences 110(45):18327–32.
 
 **2/28 Intuitive physics (part 2: machines)**
-- Lerer, A., Gross, S. & Fergus, R. (2016). Learning physical intuition of block towers by example. Presented at the 33rd International Conference on Machine Learning (ICML).  
-- Battaglia, P., Pascanu, R., Lai, M. & Rezende, D. J. (2016). Interaction networks for learning about objects, relations and physics. Advances in Neural Information Processing Systems. 
-- Mottaghi, R., Bagherinezhad, H., Rastegari, M., & Farhadi, A. (2016). Newtonian scene understanding: Unfolding the dynamics of objects in static images. Computer Vision and Pattern Recognition (pp. 3521-3529).
+- [Lerer, A., Gross, S. & Fergus, R. (2016). Learning physical intuition of block towers by example.](https://arxiv.org/abs/1603.01312) Presented at the 33rd International Conference on Machine Learning (ICML).  
+- [Battaglia, P., Pascanu, R., Lai, M. & Rezende, D. J. (2016). Interaction networks for learning about objects, relations and physics.](https://arxiv.org/abs/1612.00222) Advances in Neural Information Processing Systems. 
+- [Mottaghi, R., Bagherinezhad, H., Rastegari, M., & Farhadi, A. (2016). Newtonian scene understanding: Unfolding the dynamics of objects in static images.](https://arxiv.org/abs/1511.04048) Computer Vision and Pattern Recognition (pp. 3521-3529).
 
 **3/7 Intuitive psychology (part 1: humans)**
 - Building machines that learn and think like people (Section 4.1.2, pg. 11-2) 
-- Baker, C. L., Jara-Ettinger, J., Saxe, R. & Tenenbaum, J. B. (2017). Rational quantitative attribution of beliefs, desires and percepts in human mentalizing. Nature Human Behaviour.
+- Woodward, A. L. (1998). Infants selectively encode the goal object of an actor's reach. Cognition, 69(1), 1-34.
 - Csibra, G., Biro, S., Koos, O. & Gergely, G. (2003). One-year-old infants use teleological representations of actions productively. Cognitive Science 27:111–33 
-- Leslie, A. M., Friedman, O., & German, T. P. (2004). Core mechanisms in ‘theory of mind’. Trends in Cognitive Sciences, 8(12), 528-533.
+- Baker, C. L., Jara-Ettinger, J., Saxe, R. & Tenenbaum, J. B. (2017). Rational quantitative attribution of beliefs, desires and percepts in human mentalizing. Nature Human Behaviour.
 
 **3/14 Intuitive psychology (part 2: machines)**
-- Raileanu, R., Denton, E., Szlam, A., and Fergus, R. (2018). Modeling Others using Oneself in Multi-Agent Reinforcement Learning. arXiv preprint arXiv:1802.09640.
-- Rabinowitz, N. C., Perbet, F., Song, H. F., ..., Botvinick, M. (2018). Machine theory of mind. arXiv preprint arXiv:1802.07740.
+- [Raileanu, R., Denton, E., Szlam, A., and Fergus, R. (2018). Modeling Others using Oneself in Multi-Agent Reinforcement Learning.](https://arxiv.org/abs/1802.09640) Proceedings of the 35th International Conference on Machine Learning (ICML).
+- [Rabinowitz, N. C., Perbet, F., Song, H. F., Eslami, S. M. A., Botvinick, M. (2018). Machine theory of mind.](https://arxiv.org/abs/1802.07740) Proceedings of the 35th International Conference on Machine Learning (ICML).
 
 **3/21 NO CLASS. Spring Recess**
 
 **3/28 Compositionality**
 - Building machines that learn and think like people (Section 4.2-4.2.1, pg. 12-15)
 - Marcus, G. (1998) Rethinking eliminative connectionism. Cognitive Psychology 282 (37):243–82. 
-- Lake, B. M. and Baroni, M. (2017). Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks. Preprint available on arXiv:1711.00350.
+- [Lake, B. M. and Baroni, M. (2018). Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks.](https://arxiv.org/abs/1711.00350) International Conference on Machine Learning (ICML).
 - Reed, S., & De Freitas, N. (2016). Neural programmer-interpreters. International Conference on Learning Representations (ICLR).
 
 **4/4 Causality**
 - Building machines that learn and think like people (Section 4.2.2, pg. 15-16)
-- Lake, B. M., Salakhutdinov, R. & Tenenbaum, J. B. (2015) Human-level concept learning through probabilistic program induction. Science 350(6266):1332–38. 
-- Rezende, D. J., Mohamed, S., Danihelka, I., Gregor, K. & Wierstra, D. (2016) One-shot generalization in deep generative models. Presented at the International Conference on Machine Learning.
 - Murphy, G. L. & Medin, D. L. (1985) The role of theories in conceptual coherence. Psychological Review 92(3):289–316.
+- Lake, B. M., Salakhutdinov, R. & Tenenbaum, J. B. (2015) Human-level concept learning through probabilistic program induction. Science 350(6266):1332–38. 
+- [Hewitt, L. B., Nye, M. I., Gane, A., Jaakkola, T., & Tenenbaum, J. B. (2018). The Variational Homoencoder: Learning to learn high capacity generative models from few examples.](https://arxiv.org/abs/1807.08919) Uncertainty in Artificial Intelligence (UAI).
 
 **4/11 Learning-to-learn**
 - Building machines that learn and think like people (Section 4.2.3-4.3, pg. 16-19)
 - Smith, L. B., Jones, S. S., Landau, B., Gershkoff-Stowe, L. & Samuelson, L. (2002) Object name learning provides on-the-job training for attention. Psychological Science 13(1):13–19.
-- Ritter, S., Barrett, D. G., Santoro, A., & Botvinick, M. M. (2017). Cognitive psychology for deep neural networks: A shape bias case study. International Conference on Machine Learning (ICML).
-- Wang, J. X., Kurth-Nelson, Z., Tirumala, D., Soyer, H., Leibo, J. Z., Munos, R., ... & Botvinick, M. (2016). Learning to reinforcement learn. arXiv preprint arXiv:1611.05763.
+- [Ritter, S., Barrett, D. G., Santoro, A., & Botvinick, M. M. (2017). Cognitive psychology for deep neural networks: A shape bias case study.](https://arxiv.org/abs/1706.08606) International Conference on Machine Learning (ICML).
+- [Snell, J., Swersky, K., & Zemel, R. (2017). Prototypical networks for few-shot learning.](https://arxiv.org/abs/1703.05175) In Advances in Neural Information Processing Systems (NIPS).
+- [Wang, J. X., Kurth-Nelson, Z., Tirumala, D., Soyer, H., Leibo, J. Z., Munos, R., ... & Botvinick, M. (2016).](https://arxiv.org/abs/1611.05763) Learning to reinforcement learn. arXiv preprint arXiv:1611.05763.
 
 **4/18 Critiques of “Building machines that learn and think like people”**
 - Building machines that learn and think like people (Section 5-end, pg. 19-25)
@@ -148,7 +149,7 @@ Please see below for the assigned readings for each class (to be read before cla
 - Response, Lake, Ullman, Gershman, Tenenbaum, “Ingredients of intelligence: From classic debates to an engineering roadmap” (pg. 50-59)
 
 **4/25 Language and Culture**
-- Mikolov, T., Joulin, A. & Baroni, M. (2016) A roadmap towards machine intelligence. arXiv preprint 1511.08130. 
+- [Mikolov, T., Joulin, A. & Baroni, M. (2016) A roadmap towards machine intelligence.](https://arxiv.org/abs/1511.08130) arXiv preprint 1511.08130. 
 - Lupyan, G. & Bergen, B. (2016) How language programs the mind. Topics in Cognitive Science 8(2):408–24.
 - Tomasello, M., Kruger, A. C., & Ratner, H. H. (1993). Cultural learning. Behavioral and Brain Sciences, 16(3), 495-511.
 
