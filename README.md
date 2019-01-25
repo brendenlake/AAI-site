@@ -33,11 +33,9 @@ The final paper or project is done individually. For the final assignment, stude
 ## Course discussion  
 We will be using Piazza for reactions to readings and class discussion.
 
-<!--
-The signup link for our Piazza page is available here ([https://piazza.com/nyu/spring2018/psychga3405001](https://piazza.com/nyu/spring2018/psychga3405001)).
+The signup link for our Piazza page is available here ([https://piazza.com/nyu/spring2019/psychga3405001](https://piazza.com/nyu/spring2019/psychga3405001)).
 
-Once signed up, our class Piazza page is available here ([https://piazza.com/nyu/spring2018/psychga3405001/home](https://piazza.com/nyu/spring2018/psychga3405001/home)).
--->
+Once signed up, our class Piazza page is available here ([https://piazza.com/nyu/spring2019/psychga3405001/home](https://piazza.com/nyu/spring2019/psychga3405001/home)).
 
 ## Final assignment
 - The final assignment is due Tuesday, May 14.
