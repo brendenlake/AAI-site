@@ -30,6 +30,10 @@ The final grade is based on the final paper or project (50%), written reactions 
 
 The final paper or project is done individually. For the final assignment, students may either write a final paper that proposes an additional ingredient of human intelligence that is underutilized in AI, or complete a project that implements one of the ingredients discussed in an algorithm. The final assignment proposal is due on Thursday, April 4 (one half page written). The final assignment is due on Tuesday, May 14.
 
+**What makes a good reaction post?** There are many ways to write a good reaction post, and I would rather leave it up to you than impose a particular formula. Try to articulate an opinion about the readings, rather than write an exhaustive summary of the articles. I prefer to read your opinions than a summary! It's great if you can put the articles in conversation with each other and with the theme of the class. It's also okay to focus on one or two of the readings that interest you most, rather than talking about each of the readings equally.
+
+The responses should be short -- three short paragraphs is about right. I don't want the reaction to take much of your time beyond reading the articles themselves (15 mins is reasonable for writing your response).
+
 ## Course discussion  
 We will be using Piazza for reactions to readings and class discussion.
 
