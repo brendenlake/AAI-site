@@ -86,7 +86,7 @@ Please see below for the assigned readings for each class (to be read before cla
 
 **2/14 Deep learning - Discussion**
 - [Lake, B. M., Ullman, T. D., Tenenbaum, J. B., Gerhsman, S. J. (2017). Building machines that learn and think like people](https://cims.nyu.edu/~brenden/LakeEtAl2017BBS.pdf). Behavioral and Brain Sciences.
-**Only Sections 1-4 (pgs. 1-9)**
+**Only Sections 1-3 (pgs. 1-9)**
 - Mnih, V., Kavukcuoglu, K., Silver, D., …. & Hassabis, D. (2015). Human-level control through deep reinforcement learning. Nature 518(7540):529–33.
 - Graves, A., Wayne, G., Reynolds, M., Harley, T., Danihelka, I., Grabska-Barwińska, A., ... & Badia, A. P. (2016). Hybrid computing using a neural network with dynamic external memory. Nature, 538(7626), 471-476.
 - [Xu, K., Ba, J., Kiros, R., Cho, K., Courville, A., Salakhudinov, R., Zemel, R., & Bengio, Y. (2015). Show, attend and tell: Neural image caption generation with visual attention.](https://arxiv.org/abs/1502.03044) In International Conference on Machine Learning (pp. 2048-2057).
