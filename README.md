@@ -117,8 +117,8 @@ Please see below for the assigned readings for each class (to be read before cla
 
 **3/28 Compositionality**
 - Building machines that learn and think like people (Section 4.2-4.2.1, pg. 12-15)
-- Marcus, G. (1998) Rethinking eliminative connectionism. Cognitive Psychology 282 (37):243–82. 
-- [Lake, B. M. and Baroni, M. (2018). Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks.](https://arxiv.org/abs/1711.00350) International Conference on Machine Learning (ICML).
+- Marcus, G. (1998) Rethinking eliminative connectionism. Cognitive Psychology 282 (37):243–82.
+- [Lake, B. M., Linzen, T., and Baroni, M. (2019). Human few-shot learning of compositional instructions.](https://arxiv.org/abs/1901.04587) Preprint available on arXiv:1901.04587.
 - [Reed, S., & De Freitas, N. (2016). Neural programmer-interpreters.](https://arxiv.org/abs/1511.06279) International Conference on Learning Representations (ICLR).
 
 **4/4 Causality**
