@@ -43,6 +43,7 @@ Once signed up, our class Piazza page is available here ([https://piazza.com/nyu
 
 ## Final assignment
 - The final assignment is due Tuesday, May 14.
+- You will also be asked to give a 5 minute presentation on your final project on Thursday May, 9.
 - The final paper or project is done individually (not as a group). 
 - Option 1: A final paper that proposes an additional ingredient of human intelligence that is underutilized in AI. The paper should summarize the psychological literature on the ingredient, and discuss the relevant AI literature or lack thereof (about 8 pages)
 - Option 2: Complete a project that implements an important aspect of one of the ingredients discussed in class (intuitive physics, intuitive psychology, compositionality etc.) in an algorithm (with a 4 page writeup)
