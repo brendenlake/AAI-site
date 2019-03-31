@@ -70,7 +70,7 @@ Once signed up, our class Piazza page is available here ([https://piazza.com/nyu
 - 4/18 Critiques of “Building machines that learn and think like people”
 - 4/25 Language and Culture
 - 5/2 Emotion and Embodiment
-- 5/9 TBD
+- 5/9 Final assignment presentations
 - Final assignment due (Tuesday 5/14)
 
 ## Detailed schedule and readings
@@ -161,4 +161,4 @@ Please see below for the assigned readings for each class (to be read before cla
 - Ong, D. C., Zaki, J., & Goodman, N. D. (2015). Affective cognition: Exploring lay theories of emotion. Cognition, 143, 141-162.
 - Ossmy, O., Hoch, J. E., MacAlpine, P., Hasan, S., Stone, P., & Adolph, K. E. (2018). Variety wins: Soccer-playing robots and infant walking. Frontiers in Neurorobotics, 12, 19
 
-**5/9 TBD**
+**5/9 Final assignment presentations**
