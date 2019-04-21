@@ -70,7 +70,7 @@ Once signed up, our class Piazza page is available here ([https://piazza.com/nyu
 - 4/11 Learning-to-learn
 - 4/18 Critiques of “Building machines that learn and think like people”
 - 4/25 Language and Culture
-- 5/2 Emotion and Embodiment
+- 5/2 Emotion and Egocentric learning
 - 5/9 Final assignment presentations
 - Final assignment due (Tuesday 5/14)
 
@@ -157,9 +157,9 @@ Please see below for the assigned readings for each class (to be read before cla
 - Lupyan, G. & Bergen, B. (2016) How language programs the mind. Topics in Cognitive Science 8(2):408–24.
 - Tomasello, M., Kruger, A. C., & Ratner, H. H. (1993). Cultural learning. Behavioral and Brain Sciences, 16(3), 495-511.
 
-**5/2 Emotion and Embodiment**
-- Yurovsky, D., Smith, L. B., & Yu, C. (2013). Statistical word learning at scale: The baby's view is better. Developmental Science, 16(6), 959-966.
-- Ong, D. C., Zaki, J., & Goodman, N. D. (2015). Affective cognition: Exploring lay theories of emotion. Cognition, 143, 141-162.
-- Ossmy, O., Hoch, J. E., MacAlpine, P., Hasan, S., Stone, P., & Adolph, K. E. (2018). Variety wins: Soccer-playing robots and infant walking. Frontiers in Neurorobotics, 12, 19
+**5/2 Emotion and Egocentric learning**
+- Smith, L. B., & Slone, L. K. (2017). A developmental approach to machine learning?. Frontiers in psychology, 8, 2124.
+- Bambach, S., Crandall, D., Smith, L., & Yu, C. (2018). Toddler-Inspired Visual Object Learning. In Advances in Neural Information Processing Systems.
+- Ong, D., Soh, H., Zaki, J., & Goodman, N. (2019). Applying Probabilistic Programming to Affective Computing. IEEE Transactions on Affective Computing.
 
 **5/9 Final assignment presentations**
